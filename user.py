@@ -1,3 +1,8 @@
+# Cian McGuinness
+# cianmcguinness94@gmail.com
+# +353 86 880 6406
+
+
 class User:
     # User class is used in main program for creating a user object, assigning weight, height, name, and metric (bool)
     # values to it. get_bmi function in user class is used to calculate a BMI based on user class variables and return

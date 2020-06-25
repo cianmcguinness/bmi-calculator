@@ -1,3 +1,9 @@
+# Cian McGuinness
+# cianmcguinness94@gmail.com
+# +353 86 880 6406
+
+# Run this file to start BMI Calculator
+
 from user import User
 from tkinter import *
 import tkinter.messagebox
